@@ -135,28 +135,6 @@ These folders are generated automatically during runtime, so no manual setup is 
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots of your application here.
-
-### Home Page
-
-![Home](screenshots/home.png)
-
-### Upload Documents
-
-![Upload](screenshots/upload.png)
-
-### Ask Questions
-
-![Question](screenshots/question.png)
-
-### Generated Answer
-
-![Answer](screenshots/answer.png)
-
----
-
 ## 🔮 Future Improvements
 
 - Multi-document conversations
